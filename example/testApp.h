@@ -2,7 +2,6 @@
 
 #include "ofMain.h"
 #include "ofxGlobalElements.h"
-#include <curses.h>
 
 
 class MyTestClass : public ofxGlobalElement{
