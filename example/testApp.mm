@@ -5,7 +5,7 @@ void testApp::setup(){
 
 	G * globals = G::get();
 	globals->setElement(new MyTestClass(), "test");
-	globals->setElement(new MyTestClass2(), "test2");	
+	globals->setElement(new MyTestClass2(), "test2");
 }
 
 //--------------------------------------------------------------
